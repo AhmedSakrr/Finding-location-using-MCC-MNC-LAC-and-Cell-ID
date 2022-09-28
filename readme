@@ -1,6 +1,30 @@
-https://ipgeolocation.io/ip-location
+كيف تقوم بتعقب اي جهاز من دون الانترنت
+فكرة عملها لكي يعلم الجميع هي عن طريق بيانات الشفرة لديك فهي تقوم بتعقبك عن طريق ابراج التغطية
+واريد ان انبه بان كثير من الدول تمنع هدا الموقع وايضا انتبهوا لبياناتكم فعد حصول اي شخص علي بيانات هاتفك فأنه بأمكانه تعقبك اينما دهبت
+اول شئ نقوم به ان نعرف اربعة امور
+1-mcc(mobile security code)
+2-mnc(mobile network code)
+3-lac(location area code)
+4-cid(cell id)
+نقوم بالحصول علي هده البرامج من خلال الجهاز المحمول عن طريق هدا البرنامج
+cellid info لاجهزة الاندرويد
+وبعد الحصول علي المعلومات من البرنامج ندهب الي هدا الموقع
+http://www.cellphonetrackers.org/gsm/gsm-tracker.php
+ثم نقوم بكتابة البيانات في الخانات ثم نضغط علي
+Track it
+
+
+https://www.cellphonetrackers.org/gsm/gsm-tracker.php
+https://cellphonetrackers.org/gsm/gsm-tracker.php
+https://www.opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942
+https://cellphonetrackers.org/gsm/gsm-tracker.php
 http://www.cell2gps.com/
+https://github.com/AhmedSakrr/GSM-tracker
+https://github.com/alejandroscf/GSM-tracker
+
+
+https://ipgeolocation.io/ip-location
 https://www.youtube.com/watch?v=Q91cTFwIvLc
 https://www.ehacking.net/2022/01/how-to-track-phone-location-by-sending-a-link-track-iphone-android.html
 https://github.com/AhmedSakrr/seeker
-https://www.opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942
+
